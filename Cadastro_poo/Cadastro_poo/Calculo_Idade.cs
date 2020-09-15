@@ -7,18 +7,24 @@ using System.Threading.Tasks;
 
 namespace Cadastro_poo
 {
-    public class Calculo_Idade:Pessoa //herança
+    public class Calculo_Idade : Pessoa //herança
     {
-        public Calculo_Idade() : base()
+         public Calculo_Idade() : base()
         {
             this.Teste = 0;
-        }
-        
-        public Calculo_Idade(String nome, String cidade, int idade, int telefone, int teste):base(nome, cidade, idade, telefone)
+        } 
+
+        public Calculo_Idade(String nome, String cidade, int idade, int telefone, int teste) : base(nome, cidade, idade, telefone)
         {
             this.Teste = teste;
             //this.Idade = idade;
         }
+        
+        /*public Calculo_Idade(String nome, String cidade, int idade, int telefone) : base(nome, cidade, idade, telefone)
+        {
+            //this.Teste = teste;
+            //this.Idade = idade;
+        }*/
 
         private int teste;
 
@@ -46,10 +52,12 @@ namespace Cadastro_poo
             }
 
             //this.Teste = (this.Idade * 10);
-            Console.WriteLine("Idade multiplicada por 10 é: " + this.Idade);
+            Console.WriteLine("Idade multiplicada por 10 é: " + this.Idade * 10);
             //return (0);
 
             Console.WriteLine("Nome: " + this.Nome);
+
+            this.Teste = 5;
         }
     }
 }

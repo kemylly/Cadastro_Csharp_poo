@@ -5,3 +5,10 @@ C:\Users\Kemily\Documents\Quarentena\Cadastros_Csharp_poo\Cadastro_poo\Cadastro_
 C:\Users\Kemily\Documents\Quarentena\Cadastros_Csharp_poo\Cadastro_poo\Cadastro_poo\obj\Debug\Cadastro_poo.csproj.CoreCompileInputs.cache
 C:\Users\Kemily\Documents\Quarentena\Cadastros_Csharp_poo\Cadastro_poo\Cadastro_poo\obj\Debug\Cadastro_poo.exe
 C:\Users\Kemily\Documents\Quarentena\Cadastros_Csharp_poo\Cadastro_poo\Cadastro_poo\obj\Debug\Cadastro_poo.pdb
+C:\Users\Kemily\Documents\Quarentena\Cadastro_Csharp_poo\Cadastro_poo\Cadastro_poo\bin\Debug\Cadastro_poo.exe.config
+C:\Users\Kemily\Documents\Quarentena\Cadastro_Csharp_poo\Cadastro_poo\Cadastro_poo\bin\Debug\Cadastro_poo.exe
+C:\Users\Kemily\Documents\Quarentena\Cadastro_Csharp_poo\Cadastro_poo\Cadastro_poo\bin\Debug\Cadastro_poo.pdb
+C:\Users\Kemily\Documents\Quarentena\Cadastro_Csharp_poo\Cadastro_poo\Cadastro_poo\obj\Debug\Cadastro_poo.csprojAssemblyReference.cache
+C:\Users\Kemily\Documents\Quarentena\Cadastro_Csharp_poo\Cadastro_poo\Cadastro_poo\obj\Debug\Cadastro_poo.csproj.CoreCompileInputs.cache
+C:\Users\Kemily\Documents\Quarentena\Cadastro_Csharp_poo\Cadastro_poo\Cadastro_poo\obj\Debug\Cadastro_poo.exe
+C:\Users\Kemily\Documents\Quarentena\Cadastro_Csharp_poo\Cadastro_poo\Cadastro_poo\obj\Debug\Cadastro_poo.pdb
